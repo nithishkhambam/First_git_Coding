@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17334" started-at="2017-02-10T08:01:11Z" finished-at="2017-02-10T08:01:28Z">
+    <groups>
+      <group name="test">
+        <method signature="Hometests.Shopsears_Login_Page()[pri:0, instance:com.test.Hometests@19472dca]" name="Shopsears_Login_Page" class="com.test.Hometests"/>
+      </group> <!-- test -->
+    </groups>
+    <test name="Default test" duration-ms="17334" started-at="2017-02-10T08:01:11Z" finished-at="2017-02-10T08:01:28Z">
+      <class name="com.test.Hometests">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:com.test.Hometests@19472dca]" name="intializeDriver" is-config="true" duration-ms="2770" started-at="2017-02-10T13:31:11Z" finished-at="2017-02-10T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="Shopsears_Login_Page()[pri:0, instance:com.test.Hometests@19472dca]" name="Shopsears_Login_Page" duration-ms="14545" started-at="2017-02-10T13:31:14Z" finished-at="2017-02-10T13:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shopsears_Login_Page -->
+      </class> <!-- com.test.Hometests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
